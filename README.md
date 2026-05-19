@@ -22,3 +22,12 @@ Analog function generator capable of generating sine, square, triangle, and sawt
 
 ### PCB Schematic
 ![PCB Schematic](./images/Schematic_PCB.png)
+
+
+## 📈 Simulation Files
+The LTspice simulation files for the analog function generator are available in the `/simulation` folder.
+
+### Included Files
+- Function generator LTspice schematic (`.asc`)
+- Simulation outputs
+- Circuit waveform analysis
