@@ -31,3 +31,12 @@ The LTspice simulation files for the analog function generator are available in 
 - Function generator LTspice schematic (`.asc`)
 - Simulation outputs
 - Circuit waveform analysis
+
+  ---
+
+## 🎥 Project Demonstration Video
+
+Watch the working demonstration here:
+
+[▶️ Watch Demo Video 1](./output_1.mp4)
+[▶️ Watch Demo Video 2](./output_2.mp4)
